@@ -1,0 +1,22 @@
+@font-face {
+  font-family:"Franchise Bold";
+  src:url("../fonts/Franchise-Bold-hinted.eot?") format("eot"),
+  url("../fonts/Franchise-Bold-hinted.woff") format("woff"),
+  url("../fonts/Franchise-Bold-hinted.ttf") format("truetype"),
+  url("../fonts/Franchise-Bold-hinted.svg#Franchise-Bold") format("svg");
+  font-weight:normal;
+  font-style:normal;
+}
+
+@font-face {
+    font-family: 'Novecento WideBold';
+    src: url('../fonts/Novecentosanswide-Bold-webfont.eot');
+    src: url('../fonts/Novecentosanswide-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Novecentosanswide-Bold-webfont.woff2') format('woff2'),
+         url('../fonts/Novecentosanswide-Bold-webfont.woff') format('woff'),
+         url('../fonts/Novecentosanswide-Bold-webfont.ttf') format('truetype'),
+         url('../fonts/Novecentosanswide-Bold-webfont.svg#novecento_sans_wide_bookbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
